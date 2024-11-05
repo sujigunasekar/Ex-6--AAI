@@ -1,6 +1,9 @@
 # EX-06 Implementation of Semantic Analysis
+<H3>ENTER YOUR NAME : ANU RADHA N</H3>  
+<H3>ENTER YOUR REGISTER NO: 212223230018</H3>  
+<H3>DATE : 21/10/2024</H3>
 ### Aim: 
-To perform Parts of speech identification and Synonym using Natural Language &emsp;&emsp;&emsp;&emsp;**DATE :26-10-2024**<br>Processing (NLP) techniques.
+To perform Parts of speech identification and Synonym using Natural Language 
 ### Algorithm:
 Step 1: Import the nltk library.<br>
 Step 2: Download the 'punkt', 'wordnet', and 'averaged_perceptron_tagger' resources.<br>
@@ -13,9 +16,6 @@ Step 5:Iterate through each word in the tokenized text.<br>
 •	Extract synonyms and antonyms using lemma.name() and lemma.antonyms()[0].name() respectively.<br>
 •	Print the unique sets of synonyms and antonyms.
 ### Program:
-**Developed By: Suji G**
-
-**REGISTER NO:212222230152**
 ##### Importing NLTK and Resource Downloads
 ```Python
 import nltk
