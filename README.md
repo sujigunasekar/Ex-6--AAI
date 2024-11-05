@@ -1,6 +1,6 @@
 # EX-06 Implementation of Semantic Analysis
-<H3>ENTER YOUR NAME : ANU RADHA N</H3>  
-<H3>ENTER YOUR REGISTER NO: 212223230018</H3>  
+<H3>ENTER YOUR NAME : Suji G</H3>  
+<H3>ENTER YOUR REGISTER NO: 212222230152</H3>  
 <H3>DATE : 21/10/2024</H3>
 ### Aim: 
 To perform Parts of speech identification and Synonym using Natural Language 
