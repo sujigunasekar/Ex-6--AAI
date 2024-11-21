@@ -1,6 +1,6 @@
-### NAME : Suji G
-### REGISTER NO : 212222230152
-### DATE: 27.10.24
+<H3> Name </H3>Suji.G
+<H3>Register No.212222230152</H3>
+<H3>DATE:</H3>
 
 ## EX. NO.6         Implementation of Semantic Analysis
 
